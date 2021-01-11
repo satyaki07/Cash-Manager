@@ -2,12 +2,14 @@
   "name": "cash_manager",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://use.fontawesome.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
