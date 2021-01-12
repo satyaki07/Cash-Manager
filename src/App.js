@@ -117,7 +117,7 @@ function App() {
       <div className="wrapper">
         <h1>
           <GiCash />
-          Cash Manager
+          Cash Register Manager
         </h1>
         <p>
           Enter the bill amount and cash given by the customer and know minimum
